@@ -1,0 +1,63 @@
+body{
+    background-color: darkgray;
+    color: white;
+}
+
+#wrapper{
+    width: 1250px;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 175px auto;
+
+    background-color: #262626;
+}
+
+#wrapper > nav {
+    background-color: #545454;
+}
+
+#wrapper > nav > ul > li {
+    cursor: pointer;
+    padding: 8px 0px 8px 5px;
+}
+
+#wrapper > nav > ul > li:hover {
+    background-color: #6a6a6a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*adminPages*/
+#home_Page{
+
+}
+
+#pages_Page{
+
+}
+
+
+
+/*general classes*/
+.hidden{
+    display: none;
+}
+
