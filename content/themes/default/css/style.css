@@ -338,7 +338,7 @@ a:hover{
     grid-gap: 10px;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(5, 100px);
-    margin-top: 150px;
+    margin-top: 50px;
     margin-bottom: 150px;
 }
 
@@ -391,6 +391,24 @@ a:hover{
     line-height: 20px;
 }
 
+.button{
+    border: 1px solid red;
+    border-radius: 5px;
+    color: red;
+    background-color: black;
+    font-size: 15px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.button:visited{
+    color: red;
+}
+
+.button:hover{
+    background-color: #370000;
+
+}
 
 
 

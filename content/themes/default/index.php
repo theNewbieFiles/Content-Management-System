@@ -81,11 +81,14 @@ echo get_Header();
                 <div class="projectInfo">
                     <h2>This Website</h2>
                     <p>
-                        Custom built CMS and template system. <br/>
+                        Custom built CMS with themes similar to WordPress. <br/>
                         Built using PHP, MySQL, JavaScript, HTML 5, and CSS <br/>
-
+                        <a href="/this-website">Read More...</a>
                     </p>
-                    <a href="/this-website">Read More...</a>
+
+                    <div>
+                        <a class="button"  target="_blank" href="https://github.com/theNewbieFiles/Content-Management-System">Github</a>
+                    </div>
                 </div>
 
             </div>
@@ -96,11 +99,17 @@ echo get_Header();
                 </div>
 
                 <div class="projectInfo2">
-                    <h2>Open World RPG</h2>
+                    <h2>Ai-rim</h2>
                     <p>
-                        This is a unnamed open world RPG. Built in JavaScript, using Three.js
+                        This is a large procedurally generated open world RPG. <br />
+                        Built using Javascript using Three.js <br />
+                        <a href="/open-world-rpg-javascript">Read More...</a>
                     </p>
-                    <a href="/open-world-rpg-javascript">Read More...</a>
+
+                    <div>
+                        <a class="button" target="_blank" href="https://github.com/theNewbieFiles/AI-rim">Github</a>
+                        <a class="button" href="/open-world-rpg-javascript">View Project</a>
+                    </div>
                 </div>
 
             </div>
@@ -114,12 +123,41 @@ echo get_Header();
                     <h2>Time Tracking App</h2>
                     <p>
                         System for tracking employee time and safety compliance <br/>
-                        <br/> PHP, MySQL, JavaScript, HTML 5, and CSS
+                        <br/> PHP, MySQL, JavaScript, HTML 5, and CSS<br/>
+                        <a href="/arc-app">Read More...</a>
                     </p>
-                    <a href="/arc-app">Read More...</a>
+
+                    <div>
+                        <a class="button" target="_blank" href="https://github.com/theNewbieFiles/timeClockApp">Github</a>
+                        <a class="button" target="_blank" href="http://time.chrispcr.com/">View Project</a>
+                    </div>
                 </div>
 
             </div>
+
+            <div class="project">
+                <div class="display2">
+                    <img src="/content/themes/default/img/bugs.png" alt="Picture of my game jam Game">
+                </div>
+
+                <div class="projectInfo2">
+                    <h2>Game Jam game</h2>
+                    <p>
+                        This is from a game jam I participated in, with a theme of bugs. It is going to be a Terraria clone.
+
+                        <a href="/game-jam-game">Read More...</a>
+                    </p>
+
+                    <div>
+                        <a class="button" target="_blank" href="https://github.com/theNewbieFiles/bugs">Github</a>
+                        <a class="button" href="/game-jam-game">View Project</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+
         </div>
 
 

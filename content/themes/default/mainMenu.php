@@ -48,8 +48,11 @@
             </div>
 
         </li>
-        <li class="dropdown">
-            <a class="menu-a" href="/about">About</a>
+
+
+        <?php
+        /*<li class="dropdown">
+            <a class="menu-a menu-single" href="/">About Me</a>
             <div class="dropdown-content">
                 <ul>
                     <li>
@@ -57,7 +60,9 @@
                     </li>
                 </ul>
             </div>
-        </li>
+        </li>*/
+
+        ?>
     </ul>
 
 </nav>
